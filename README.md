@@ -3,6 +3,12 @@ A python script made by a child to encourages you to doomscroll more on instagra
 
 # How to install:
 Dependancy install: pip install pywin32 win10toast
+
+
+
 Download the script and run it with python.
+
+
+
 Works with windows 10 and 11
 IF we get 100 stars i will fix it to work with mac.
